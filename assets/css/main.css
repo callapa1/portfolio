@@ -2062,7 +2062,7 @@ input, select, textarea {
 			}
 
 		.icon.style1, .icon.style2, .icon.style3 {
-			color: #9c9c9c;
+			color: hsl(175, 0%, 0%);
 		}
 
 /* Image */
@@ -2736,7 +2736,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background-color:#1b849ef8;
+			background-color:hsl(192, 75%, 59%);
 			color: #c8ece9;
 		}
 
@@ -2769,7 +2769,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: hsl(175, 0%, 24%);
 			}
 
 			.wrapper.style1 label {
